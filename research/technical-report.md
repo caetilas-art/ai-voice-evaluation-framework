@@ -34,12 +34,65 @@ The evaluation process follows five main steps:
 5. **Compare results consistently:** When multiple samples are evaluated, the same criteria and process are applied to support consistency across assessments.
 
 This methodology is intended as a practical framework for structured human evaluation. It does not replace automated testing or controlled scientific methods, but it demonstrates how clearly defined criteria can support consistent qualitative analysis of AI-generated voice.
+
 ## 3. Evaluation Criteria
+The framework evaluates AI-generated voice outputs across multiple quality dimensions. Each criterion represents a different aspect of the listening experience and should be considered independently before forming an overall assessment.
+
+### Naturalness
+
+Naturalness refers to how closely an AI-generated voice resembles natural human speech. The evaluation considers whether the speech sounds authentic, expressive, and free from unnatural patterns.
+
+### Clarity
+
+Clarity evaluates how easily the listener can understand the spoken content. This includes pronunciation, articulation, and whether the voice communicates the intended message effectively.
+
+### Audio Quality
+
+Audio quality focuses on the technical characteristics of the recording or generated output. The evaluation considers issues that may affect the listening experience, such as distortion, unwanted noise, or inconsistencies in the audio.
+
+### Consistency
+
+Consistency examines whether the quality and characteristics of the voice remain stable throughout the sample. Changes in tone, pronunciation, volume, or other noticeable characteristics may affect the overall experience.
+
+### Fluency and Pacing
+
+Fluency and pacing assess the rhythm and flow of the speech. The evaluation considers whether the voice maintains a natural pace and whether pauses, transitions, and speech patterns feel appropriate.
+
+### User Experience
+
+User experience represents the overall impression created by the voice output. This criterion considers how the different quality dimensions work together and whether the final result provides a clear, comfortable, and engaging listening experience.
 
 ## 4. Practical Application
+The framework can be applied to individual or multiple AI-generated voice samples in a structured evaluation process. Each sample is reviewed using the same quality dimensions, allowing the evaluator to document observations consistently.
+
+A practical evaluation begins with a review of the evaluation criteria. The evaluator then listens to the voice sample and considers each quality dimension independently, including naturalness, clarity, audio quality, consistency, fluency and pacing, and overall user experience.
+
+Observations can be documented in a structured format to identify strengths and potential quality issues. When multiple voice samples are available, the same process can be applied to each sample to support a consistent comparison.
+
+The framework is designed to be adaptable to different voice AI evaluation scenarios. Depending on the objective of the assessment, evaluators may use the criteria to review individual outputs, compare multiple generated voices, or identify recurring quality patterns.
+
+Practical examples included in this repository demonstrate how structured observations can be organized and documented. These examples are intended to illustrate the evaluation process and do not represent results from a controlled scientific experiment.
 
 ## 5. Findings and Insights
+The development of this framework highlighted several important considerations for the human evaluation of AI-generated voice.
+
+First, separating voice quality into individual dimensions can support a more detailed and consistent evaluation. An overall impression of a voice sample may be influenced by multiple factors, while evaluating criteria independently helps identify specific strengths and potential quality issues.
+
+Second, human evaluation remains particularly valuable for subjective aspects of voice quality. Characteristics such as naturalness, listening comfort, and overall user experience can be difficult to fully capture through technical measurements alone.
+
+Another important insight is the role of clear evaluation criteria. Well-defined guidelines can help reduce ambiguity and support greater consistency when reviewing multiple samples or applying the framework over time.
+
+The project also reinforced the importance of documenting observations in a structured way. Clear documentation makes it easier to review evaluation decisions, identify recurring quality patterns, and communicate findings.
+
+Finally, the framework demonstrates the value of combining structured criteria with human judgment. A consistent evaluation process does not eliminate subjective interpretation, but it can provide a clearer foundation for analyzing and discussing the quality of AI-generated voice outputs.
 
 ## 6. Limitations
+This project was developed as an independent technical and portfolio project. It was designed to demonstrate a structured approach to the human evaluation of AI-generated voice and should not be interpreted as a controlled scientific study.
+
+The framework does not include a large-scale dataset, quantitative statistical analysis, or validation through multiple independent evaluators. As a result, the observations and examples included in the project are intended to demonstrate the evaluation methodology rather than establish general conclusions about the performance of voice AI systems.
+
+The evaluation of subjective qualities, such as naturalness and user experience, can also be influenced by individual interpretation. Clearly defined criteria can support greater consistency, but they do not completely eliminate subjective judgment.
+
+Future development of the framework could include testing with a larger and more diverse set of voice samples, the participation of multiple evaluators, and the comparison of evaluation results to explore levels of consistency
 
 ## 7. Conclusion
