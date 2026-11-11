@@ -108,7 +108,7 @@ Ultimately, the project demonstrates a practical approach to AI voice evaluation
 
 ## Author
 
-**Cael**
+**Amanda Gabrielle Figueira Camargo**
 
 Independent AI Evaluation and Creative Professional
 
