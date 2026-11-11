@@ -96,3 +96,33 @@ The evaluation of subjective qualities, such as naturalness and user experience,
 Future development of the framework could include testing with a larger and more diverse set of voice samples, the participation of multiple evaluators, and the comparison of evaluation results to explore levels of consistency
 
 ## 7. Conclusion
+This project presents a practical framework for the structured human evaluation of AI-generated voice outputs. By organizing the evaluation around multiple quality dimensions, the framework provides a clear process for analyzing different aspects of the listening experience.
+
+The project highlights the value of evaluating voice outputs beyond a single overall impression. Criteria such as naturalness, clarity, audio quality, consistency, fluency and pacing, and user experience can help structure observations and identify specific strengths and potential quality issues.
+
+The framework also demonstrates the importance of clear guidelines and structured documentation in human evaluation. While subjective judgment remains an important part of assessing AI-generated voice, a consistent process can support clearer analysis and communication of evaluation findings.
+
+As an independent technical and portfolio project, this framework provides a foundation for further development. Future work could expand the methodology through additional voice samples, multiple evaluators, and more systematic comparisons.
+
+Ultimately, the project demonstrates a practical approach to AI voice evaluation and reflects my interest in AI quality, human evaluation, and the development of structured methods for analyzing AI-generated content.
+
+## Author
+
+**Cael**
+
+Independent AI Evaluation and Creative Professional
+
+For more information about my professional background and projects, visit my LinkedIn profile.
+
+## References
+1. International Telecommunication Union. (2016). *Recommendation ITU-T P.800.1: Mean opinion score (MOS) terminology*. ITU Telecommunication Standardization Sector.  
+   https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=12972
+
+2. International Telecommunication Union. (2016). *Recommendation ITU-T P.800.2: Mean opinion score interpretation and reporting*. ITU Telecommunication Standardization Sector.  
+   https://www.itu.int/itu-t/recommendations/rec.aspx?id=12973
+
+3. Viswanathan, M., & Viswanathan, M. (2005). *Measuring speech quality for text-to-speech systems: Development and assessment of a modified mean opinion score (MOS) scale*. Computer Speech & Language, 19(1), 55–83.  
+   https://doi.org/10.1016/j.csl.2003.12.001
+
+4. Maddock, J., Cambre, J., Tsai, J., Kaye, J., & Colnago, J. (2020). *Choice of Voices: A Large-Scale Evaluation of Text-to-Speech Voice Quality for Long-Form Content*. Mozilla Foundation.  
+   https://www.mozillafoundation.org/en/research/library/choice-of-voices-a-large-scale-evaluation-of-text-to-speech-voice-quality-for-long-form-content/
